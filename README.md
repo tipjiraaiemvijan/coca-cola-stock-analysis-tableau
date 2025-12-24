@@ -14,3 +14,8 @@ The project focuses on stock performance metrics such as:
 - Moving Average trends
 
 Dashboard built using Tableau Public and historical market data
+## Key Insights
+- Coca-Cola (KO) shows steady long-term price appreciation, consistent with a defensive consumer staples stock.
+- YTD return and 52-week high/low indicators highlight limited volatility compared to growth equities.
+- Moving average trends confirm stable momentum with temporary drawdowns during broader market uncertainty.
+- Monthly return distribution suggests downside protection relative to market cycles.
