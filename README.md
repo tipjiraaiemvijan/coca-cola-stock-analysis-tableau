@@ -1,6 +1,6 @@
 README.md
 # Coca-Cola (KO) Stock Analysis – Tableau
-## 📊 Live Dashboard
+## Live Dashboard
 🔗 Tableau Public: https://public.tableau.com/views/Book1_17593617144170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
