@@ -1,7 +1,7 @@
 README.md
 # Coca-Cola (KO) Stock Analysis – Tableau
 ## 📊 Live Dashboard
-🔗 Tableau Public: https://public.tableau.com/your-link-here
+🔗 Tableau Public: https://public.tableau.com/views/Book1_17593617144170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
 This repository contains a financial analysis project on Coca-Cola (KO) using Tableau.
